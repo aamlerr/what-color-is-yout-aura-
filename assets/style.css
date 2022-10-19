@@ -1,0 +1,49 @@
+body{
+    font-family: 'Alfa Slab One', cursive;
+    background-color: rgb(213, 81, 213);
+    color: rgb(21, 229, 21);
+    font-size: 60px;
+    text-align: center;
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    transition: all .3s;
+    }
+
+.btn {
+    text-transform: uppercase;
+    background-color: transparent;
+    border: none;
+    font-size: 32px;
+}
+
+.btn:hover {
+    cursor: pointer;
+    transform: scale(1.5);
+}
+
+.bleuhover{
+    
+    color: crimson; 
+    text-align: center
+}
+
+.cool { color:rgb(183, 255, 0)}
+
+p{ color:rgb(141, 167, 255)}
+
+h1:hover { color : rgb(255, 255, 0)}
+
+
+.bleuhover:hover { color : blue}
+
+p:hover { color: fuchsia;}
+
+body:hover { background-color: coral;}
+
+.cool:hover { color:rgb(0, 255, 174)}
+
+a{ text-decoration:none; }
+
+.mapage4.html{ display: block;
+margin: auto;}
